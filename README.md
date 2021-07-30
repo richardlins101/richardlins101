@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 
-Eu me chamo Richard Wallace, sou pernambucano e atualmente estou estudando Desenvolvimento Web.
+Eu me chamo Richard Wallace, sou pernambucano, tenho 17 anos e atualmente estou estudando Desenvolvimento Web.
 
 <h2>Tecnologias que estou aprendendo</h2>
 
